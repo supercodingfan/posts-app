@@ -1,8 +1,7 @@
 # nextjs-app
 
-### :construction: under construction
+### MVP
 
-MVP
 - [x] Can register
 - [x] Can login
 - [x] Can logout
@@ -46,34 +45,35 @@ docker exec -it nextjs-app_db_1 mongo -u admin -p secret auth
 - Material-UI
 
 ### DevOps
+
 - Docker
 
 ## Screenshots
 
 ### Blog
 
-![main_page_1](https://raw.githubusercontent.com/Arthur199212/nextjs-posts-app/master/images/01.PNG)
-![main_page_2](https://raw.githubusercontent.com/Arthur199212/nextjs-posts-app/master/images/02.PNG)
+![main_page_1](https://raw.githubusercontent.com/supercodingfan/posts-app/master/images/01.PNG)
+![main_page_2](https://raw.githubusercontent.com/supercodingfan/posts-app/master/images/02.PNG)
 
 ### Pagination
 
-![main_page_3](https://raw.githubusercontent.com/Arthur199212/nextjs-posts-app/master/images/03.PNG)
+![main_page_3](https://raw.githubusercontent.com/supercodingfan/posts-app/master/images/03.PNG)
 
 ### Form validation
 
-![register_page_1](https://raw.githubusercontent.com/Arthur199212/nextjs-posts-app/master/images/04.PNG)
-![register_page_2](https://raw.githubusercontent.com/Arthur199212/nextjs-posts-app/master/images/05.PNG)
+![register_page_1](https://raw.githubusercontent.com/supercodingfan/posts-app/master/images/04.PNG)
+![register_page_2](https://raw.githubusercontent.com/supercodingfan/posts-app/master/images/05.PNG)
 
 ### Notification
 
-![notification_1](https://raw.githubusercontent.com/Arthur199212/nextjs-posts-app/master/images/06.PNG)
+![notification_1](https://raw.githubusercontent.com/supercodingfan/posts-app/master/images/06.PNG)
 
 ### Post page
 
-![post_page_1](https://raw.githubusercontent.com/Arthur199212/nextjs-posts-app/master/images/07.PNG)
+![post_page_1](https://raw.githubusercontent.com/supercodingfan/posts-app/master/images/07.PNG)
 
 ### Responsive
 
-![responsive_1](https://raw.githubusercontent.com/Arthur199212/nextjs-posts-app/master/images/08.PNG)
-![responsive_2](https://raw.githubusercontent.com/Arthur199212/nextjs-posts-app/master/images/09.PNG)
-![responsive_3](https://raw.githubusercontent.com/Arthur199212/nextjs-posts-app/master/images/10.PNG)
+![responsive_1](https://raw.githubusercontent.com/supercodingfan/posts-app/master/images/08.PNG)
+![responsive_2](https://raw.githubusercontent.com/supercodingfan/posts-app/master/images/09.PNG)
+![responsive_3](https://raw.githubusercontent.com/supercodingfan/posts-app/master/images/10.PNG)
